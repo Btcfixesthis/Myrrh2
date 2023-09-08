@@ -1,0 +1,98 @@
+body {
+    background-color: #053B50;
+}
+
+.first-image {
+    background-color: #176B87;
+    margin: 0px;
+    background-attachment: scroll;
+}
+
+h1 {
+    color: white;
+    position: relative;
+    left: 40%;
+    font-size: 50px;
+}
+
+.head2{
+    color: #FFDBAA;
+    position: absolute;
+    top: 170px;
+    left: 42%;
+    font-size: 45px;
+    background-color: #64CCC5;
+    width: 200px;
+    
+}
+
+div p{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 33px;
+    font-size: 20px;
+    width: 500px;
+}
+
+.about {
+    margin-left: 32%;
+}
+
+div h2 {
+    position: relative;
+    top: 25px;
+    font-size: 30px;
+    background-color: white;
+    width: 200px;
+    text-align: center;
+    border: 5px solid #ffffff;
+    border-radius: 50px;
+    margin-left: 42%;
+}
+
+.images{
+    margin-left: 10%;
+    position: relative;
+    top: 30px;
+}
+
+.images img{
+    border: 5px solid #FFDBAA;
+    
+}
+
+.first-image a{
+    color:#053B50;
+    margin-top: 50px;
+    margin-right: 50px;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 30px;
+    float: right;
+    font-size: 20px;
+}
+
+.products{
+    margin-top: 100px;
+    margin-left: 40%;
+}
+
+.products img{
+    width: 200px;
+    height: 200px;
+}
+
+figure{
+    width: 50%;
+    float: left;
+}
+
+figcaption{
+    position: relative;
+    left: 2%;
+    width: 40%;
+    text-align: center;
+    color: white;
+}
+
